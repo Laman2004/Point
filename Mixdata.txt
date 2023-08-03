@@ -1,0 +1,20 @@
+Ad-Soyad Specality point1/point2/final
+Delal-Abdullatif-Abzak Fizik 100/100/68
+Fatma-Özlem-Acar Matematik Müh 60/90/100
+Özde-Acarkan Kimyager 75/70/83
+Atahan-Adanır Bilgisayar Bil 30/40/65
+Hacı-Mehmet-Adıgüzel Sanat Öyr 67/89/90
+Mükerrem-Zeynep-Ağca Fizik 40/50/73
+Bestami-Ağırağaç Bioloji 90/90/90
+Aykanat-Ağıroğlu Türkçe Bil Ara 75/85/97
+Şennur-Ağnar Kimyager 89/70/81
+Tutkum-Ahmadı-Asl Tıbb 50/50/70
+Mügenur-Ahmet Bilgisayar Müh 60/50/69
+Sevinç-Ak Tıbb 88/77/71
+Kayıhan-Nedim-Akarcalı Bilgisayar Bil 100/100/97
+Lemi-Akarçay Fizik 51/51/98
+Cihan-Akarpınar Bioloji 78/56/93
+Rafi-Akaş Matematik Müh 55/62/56
+Mehmetcan-Akay Teknoloji Uzm 78/79/80
+Nuhaydar-Akbilmez Türkçe Bil Ara 45/55/67
+Emine-Münevver-Akca Sanat Öyr 88/75/96

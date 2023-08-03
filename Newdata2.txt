@@ -1,0 +1,8 @@
+Delal Abdullatif         Abzak                    Fizik                    87.2                     Failed
+Atahan                   Adanır                  Bilgisayar Bil           47.0                     Failed
+Mükerrem Zeynep         Ağca                    Fizik                    56.2                     Failed
+Tutkum Ahmadı           Asl                      Tıbb                    58.0                     Failed
+Mügenur                 Ahmet                    Bilgisayar Müh          60.6                     Failed
+Lemi                     Akarçay                 Fizik                    69.8                     Failed
+Rafi                     Akaş                    Matematik Müh           57.5                     Failed
+Nuhaydar                 Akbilmez                 Türkçe Bil Ara         56.8                     Failed
